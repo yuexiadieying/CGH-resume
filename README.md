@@ -25,6 +25,14 @@
 6. 生成访问二维码（开发中）
 7. 祝您求职成功！
 
+## Preview
+
+### PC端
+![](assets/images/pc.png)
+
+### 移动端
+![](assets/images/ip.png)
+
 ## ChangeLog
 - 2017.3.7 创建模板
 - 2017.3.12 移动端优化
