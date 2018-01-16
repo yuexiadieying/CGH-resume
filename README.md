@@ -1,6 +1,6 @@
 # 个人简历模板
 
-[http://0b11111110.com/resume/](http://0b11111110.com/resume/)
+[http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
 
 ## Intro
 
