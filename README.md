@@ -1,5 +1,7 @@
 # 个人简历模板
 
+[![star](https://gitee.com/itsay/resume.io/badge/star.svg?theme=white)](https://gitee.com/itsay/resume.io/stargazers)
+
 [http://itsay.gitee.io/resume](http://itsay.gitee.io/resume)
 
 ## Intro
