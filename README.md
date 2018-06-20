@@ -36,7 +36,7 @@
 ![](assets/images/ip.png)
 
 ## TODO
-- [ ] 左栏固定
+- [x] 左栏固定（切换）
 - [ ] 输出pdf功能
 - [ ] 可编辑
 
