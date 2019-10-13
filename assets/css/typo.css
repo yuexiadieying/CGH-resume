@@ -241,7 +241,7 @@ strong, b {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
-  font-weight: 100;
+  font-weight: 400;
   color: #000;
   line-height: 1.35;
 }
@@ -321,7 +321,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .typo-em, .typo em, legend, caption {
   color: #000;
-  font-weight: inherit;
+  font-weight: 400;
 }
 
 /* 着重号，只能在少量（少于100个字符）且全是全角字符的情况下使用 */

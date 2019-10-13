@@ -9,15 +9,16 @@ body {
   padding: 1rem 10%;
   padding-bottom: 0;
   box-sizing: border-box;
-  font-size: .9em; }
+  font-size: .9em;
+  font-weight: 400;}
   body .fa {
     margin-right: .3em; }
   body .info-unit {
     margin-bottom: 1rem; }
     body .info-unit h2 {
-      font-weight: 700; }
+      font-weight: 900; }
     body .info-unit h3 {
-      font-weight: 300; }
+      font-weight: 600; }
 
 /* -------------------------------------------------
  * 头部部分
@@ -175,6 +176,9 @@ aside {
       line-height: 38px;
       padding-left: 10px;
       color: #fff; }
+.duty{
+      text-indent: 2rem;
+    }
 
 progress {
   background-color: #f6f6f6;
